@@ -26,22 +26,14 @@ To become a member of a security organization as a penetration tester or red tea
 - Wireless Audits
 - Reconnaissance
 - Privilege Escalation
-## Accomplishments and Extracurriculars
-- Hack The Box - https://app.hackthebox.com/profile/342659
-	- 60+ machines owned, and Hacker rank
-- Try Hack Me - https://tryhackme.com/p/h1watt
-	- Top 4%
-- CTF - Qualified for finals for atHack Saudi Arabia
-- CTF - Top 20 MagPie2022
-- Defcon 29 - Malware analysis workshop, Bug Bounty workshop and Wireshark workshop
-- Defcon 30 (Aug 11-14) - Dig Dug: Network Tunneling Workshop and Zero to Hero: Blockchain Security Workshop (Ethereum and Smart Contracts)
-- DEFCON Kubernetes CTF
-	- Using kubectl to enumerate and find bad configs, used a C2 on a VPC to create persistence in multiple pods for pivoting between them easily
 ## Cobalt IO Core Pentester March 2022 - Present
-- Engaging in Penetration tests on Web Applications, External Networks, Cloud, Internal Networks
-- Interacting with clients directly through reporting and Slack
-- Alerting clients and team leads to important findings and offering remediation advice and solutions
-- Wireless Testing and auditing with Enterprise Wi-Fi pineapple (starting end of August 2022)
+- Contract position for individual engagements 
+- full coverage of OWASP ASVS 4.0 Standard
+- Reporting vulnerabilities
+- Steps to remediate and retesting 
+- Remote wireless assessments with Wi-Fi Pineapple Enterprise
+- Updating clients at a regular interval of what has been and what will be tested on
+- Working directly with client security teams as well as developers to disseminate reported vulnerabilities
 ## Computer Science Research March 2020 - Present
 - Currently Enrolled in Offensive Security Web Expert course (OSWE)
 - TCM Security, Udemy, HackTheBox, TryHackMe, Offensive Security, Reddit, Twitter, Medium, infocon.org, Portswigger Academy, Pentester Labs, VulnHub, CloudGoat, Ippsec, LiveOverflow, HackerOne, Integriti, BugCrowd
@@ -58,15 +50,18 @@ To become a member of a security organization as a penetration tester or red tea
     - Windows Privilege Escalation (Udemy)
     - Mobile Application PenTesting (TCM Security)
     - Practical Malware Analysis and Triage (TCM Security)
-## Experience and Work History
-- Core Pentester, Cobalt.io, 2022-Present
-	- Contract position for individual engagements 
-	- full coverage of OWASP ASVS 4.0 Standard
-	- Reporting vulnerabilities
-	- Steps to remediate and retesting 
-	- Remote wireless assessments with Wi-Fi Pineapple Enterprise
-	- Updating clients at a regular interval of what has been and what will be tested on
-	- Working directly with client security teams as well as developers to disseminate reported vulnerabilities
+## Accomplishments and Extracurriculars
+- Hack The Box - https://app.hackthebox.com/profile/342659
+	- 60+ machines owned, and Hacker rank
+- Try Hack Me - https://tryhackme.com/p/h1watt
+	- Top 4%
+- CTF - Qualified for finals for atHack Saudi Arabia
+- CTF - Top 20 MagPie2022
+- Defcon 29 - Malware analysis workshop, Bug Bounty workshop and Wireshark workshop
+- Defcon 30 (Aug 11-14) - Dig Dug: Network Tunneling Workshop and Zero to Hero: Blockchain Security Workshop (Ethereum and Smart Contracts)
+- DEFCON Kubernetes CTF
+	- Using kubectl to enumerate and find bad configs, used a C2 on a VPC to create persistence in multiple pods for pivoting between them easily
+## Other Work History
 - Tom Douglas Restaurants, Bartender 2019-2020
 	- Becoming a master at creating an atmosphere of graciousness to help ease people into relaxing and enjoying the moment with delicious food and drink, Studying flavor and texture
 - Chief Compliance Officer, BMM LLC, 2012 - Present
